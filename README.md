@@ -8,6 +8,6 @@ Run . full.sh for apk build.
 
 Run sh start.sh for desktop run.
 
-![Example game used is Pax Britannica.](https://imgur.com/a/3MJ49)
+![Example game used is Pax Britannica.](https://i.imgur.com/q3q9vWf.png)
 
 
