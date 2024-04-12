@@ -28,3 +28,7 @@ Clean.sh deletes .apk and .dex files.
 . jarSign.sh signs the jar.
 
 To install to Android you then do ./adb install game.apk
+
+Start.sh runs the linux desktop version
+
+I think Java 8 is still needed for this. 
