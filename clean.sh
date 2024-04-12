@@ -1,3 +1,3 @@
-rmrf bin/classes.dex
-rmrf game.apk
-rmrf keystore
+rm -rf bin/classes.dex
+rm -rf game.apk
+rm -rf keystore
